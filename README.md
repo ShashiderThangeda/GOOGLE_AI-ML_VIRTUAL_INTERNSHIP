@@ -1,7 +1,7 @@
 git init 
 git add *.*
 git commit -m "message"
-git remote add margin https://github.com/ShashiderThangeda/DBMS_TRAINING.git
+git remote add margin https://github.com/ShashiderThangeda/GOOGLE_AI-ML_VIRTUAL_INTERNSHIP.git
 git checkout -b master
 git push origin master
 ==============================================================================================================================================================================================================
